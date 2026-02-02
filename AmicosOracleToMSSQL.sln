@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36915.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmicosOracleToMSSQL", "AmicosOracleToMSSQL\AmicosOracleToMSSQL.csproj", "{A749FD79-D711-43C9-B889-86C080875A77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A749FD79-D711-43C9-B889-86C080875A77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A749FD79-D711-43C9-B889-86C080875A77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A749FD79-D711-43C9-B889-86C080875A77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A749FD79-D711-43C9-B889-86C080875A77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDC0D292-912E-4199-9031-D0DFAEAFB69C}
+	EndGlobalSection
+EndGlobal
