@@ -314,12 +314,13 @@ namespace OracleToMSSQLMigrator
             
             try
             {
+                // Build query once for all rows in batch
+                var columnNames = string.Join(", ", columns.Select(c => $"[{c.Name}]"));
+                var parameters = string.Join(", ", columns.Select((c, i) => $"@p{i}"));
+                string insertQuery = $"INSERT INTO [{tableName}] ({columnNames}) VALUES ({parameters})";
+                
                 foreach (var row in batch)
                 {
-                    var columnNames = string.Join(", ", columns.Select(c => $"[{c.Name}]"));
-                    var parameters = string.Join(", ", columns.Select((c, i) => $"@p{i}"));
-                    string insertQuery = $"INSERT INTO [{tableName}] ({columnNames}) VALUES ({parameters})";
-                    
                     using var command = new SqlCommand(insertQuery, connection, transaction);
                     
                     for (int i = 0; i < columns.Count; i++)

@@ -63,4 +63,5 @@ artifacts/
 # Configuration files with sensitive data
 appsettings.Development.json
 appsettings.Local.json
-*.config
+appsettings.json
+connectionstrings.json
