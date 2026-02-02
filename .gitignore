@@ -1,55 +1,67 @@
-# Prerequisites
-*.d
+# .NET Build Outputs
+bin/
+obj/
+out/
 
-# Object files
-*.o
-*.ko
-*.obj
-*.elf
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
 
-# Linker output
-*.ilk
-*.map
-*.exp
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa]rm/
+[Aa]rm64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
 
-# Precompiled Headers
-*.gch
-*.pch
+# Visual Studio cache/options
+.vs/
+.vscode/
 
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
+# NuGet Packages
+*.nupkg
+*.snupkg
+**/packages/*
+!**/packages/build/
+project.lock.json
+project.fragment.lock.json
+artifacts/
 
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
+# Visual Studio cache files
+*.cache
 
-# Executables
-*.exe
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hex
+# Rider
+.idea/
+*.sln.iml
 
-# Debug files
-*.dSYM/
-*.su
-*.idb
-*.pdb
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
 
-# Kernel Module Compile Results
-*.mod*
-*.cmd
-.tmp_versions/
-modules.order
-Module.symvers
-Mkfile.old
-dkms.conf
+# Test results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
 
-# debug information files
-*.dwo
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Configuration files with sensitive data
+appsettings.Development.json
+appsettings.Local.json
+appsettings.json
+connectionstrings.json
