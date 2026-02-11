@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AmicosOracleToMSSQL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ef8834c17fe0f2e47788a5b040dc511c24358a12")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+79079ea4f3ca566d69372b693eb467e40eb1b4ca")]
 [assembly: System.Reflection.AssemblyProductAttribute("AmicosOracleToMSSQL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AmicosOracleToMSSQL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+C:\GIT\EmiliaPanciu\AmicosOracleToMSSQL\AmicosOracleToMSSQL\bin\Debug\net8.0\AmicosOracleToMSSQL.exe
+C:\GIT\EmiliaPanciu\AmicosOracleToMSSQL\AmicosOracleToMSSQL\bin\Debug\net8.0\AmicosOracleToMSSQL.deps.json
+C:\GIT\EmiliaPanciu\AmicosOracleToMSSQL\AmicosOracleToMSSQL\bin\Debug\net8.0\AmicosOracleToMSSQL.runtimeconfig.json
+C:\GIT\EmiliaPanciu\AmicosOracleToMSSQL\AmicosOracleToMSSQL\bin\Debug\net8.0\AmicosOracleToMSSQL.dll
+C:\GIT\EmiliaPanciu\AmicosOracleToMSSQL\AmicosOracleToMSSQL\bin\Debug\net8.0\AmicosOracleToMSSQL.pdb
+C:\GIT\EmiliaPanciu\AmicosOracleToMSSQL\AmicosOracleToMSSQL\obj\Debug\net8.0\AmicosOracleToMSSQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\EmiliaPanciu\AmicosOracleToMSSQL\AmicosOracleToMSSQL\obj\Debug\net8.0\AmicosOracleToMSSQL.AssemblyInfoInputs.cache
+C:\GIT\EmiliaPanciu\AmicosOracleToMSSQL\AmicosOracleToMSSQL\obj\Debug\net8.0\AmicosOracleToMSSQL.AssemblyInfo.cs
+C:\GIT\EmiliaPanciu\AmicosOracleToMSSQL\AmicosOracleToMSSQL\obj\Debug\net8.0\AmicosOracleToMSSQL.csproj.CoreCompileInputs.cache
+C:\GIT\EmiliaPanciu\AmicosOracleToMSSQL\AmicosOracleToMSSQL\obj\Debug\net8.0\AmicosOracleToMSSQL.sourcelink.json
+C:\GIT\EmiliaPanciu\AmicosOracleToMSSQL\AmicosOracleToMSSQL\obj\Debug\net8.0\AmicosOracleToMSSQL.dll
+C:\GIT\EmiliaPanciu\AmicosOracleToMSSQL\AmicosOracleToMSSQL\obj\Debug\net8.0\refint\AmicosOracleToMSSQL.dll
+C:\GIT\EmiliaPanciu\AmicosOracleToMSSQL\AmicosOracleToMSSQL\obj\Debug\net8.0\AmicosOracleToMSSQL.pdb
+C:\GIT\EmiliaPanciu\AmicosOracleToMSSQL\AmicosOracleToMSSQL\obj\Debug\net8.0\AmicosOracleToMSSQL.genruntimeconfig.cache
+C:\GIT\EmiliaPanciu\AmicosOracleToMSSQL\AmicosOracleToMSSQL\obj\Debug\net8.0\ref\AmicosOracleToMSSQL.dll
